@@ -26,5 +26,5 @@ Hiện tại project **không chạy trực tiếp** do đã xoá file `.env` (c
 
 ## 👨‍💻 Tác giả
 Nguyễn Viết Tính  
-Email: [your-email@example.com](mailto:your-email@example.com)  
+Email: [tinhnv305.sw@gmail.com](tinhnv305.sw@gmail.com)  
 GitHub: [https://github.com/viet-tinh1](https://github.com/viet-tinh1)
