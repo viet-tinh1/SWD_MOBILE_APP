@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+
+    <ImageView
+        android:id="@+id/a"
+        android:layout_width="@dimen/size100dp"
+        android:layout_height="@dimen/size100dp"
+        android:src="@drawable/banan"
+
+
+        />
+    <TextView
+        android:id="@+id/txtTenMonAn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/size18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/size10dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorPrimary"
+        android:layout_below="@+id/imMonan"
+        />
+    <TextView
+        android:id="@+id/txtGiaTien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/size18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/size10dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorPrimary"
+        android:layout_below="@+id/txtTenMonAn"
+        />
+    <Button
+        android:id="@+id/add_to_cart_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:layout_below="@+id/txtGiaTien"/>
+</LinearLayout>

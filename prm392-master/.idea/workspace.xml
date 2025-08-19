@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50189fad-0216-473a-8aa7-c5a5269ce456" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/CustomAdapter/AdapterHienThiMonAn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/OrderActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/res/layout/activity_order.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/res/layout/combined_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/res/layout/custom_layout_hienthimonan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/res/layout/custom_layout_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Oder_T7/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/CustomAdapter/AdapterHienThiBanAn.java" beforeDir="false" afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/CustomAdapter/AdapterHienThiBanAn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/DAO/MonAnDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/DAO/MonAnDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/DTO/MonAnDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/DTO/MonAnDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/FragmentAPP/HienThiThucDonFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/java/com/example/app_oder_t7/FragmentAPP/HienThiThucDonFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Oder_T7/app/src/main/res/layout/layout_hienthithucdon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App_Oder_T7/app/src/main/res/layout/layout_hienthithucdon.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jHMYSfuW3Cf09daIdWwDnnwmWJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SU24_FPT/App_Oder_T7/App_Oder_T7/App_Oder_T7&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50189fad-0216-473a-8aa7-c5a5269ce456" name="Changes" comment="" />
+      <created>1721039597962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721039597962</updated>
+    </task>
+    <servers />
+  </component>
+</project>
